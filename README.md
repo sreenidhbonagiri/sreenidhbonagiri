@@ -1,46 +1,26 @@
-# Hey there! , I'm Sreenidh 👋
+### Hey there!  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-Sophomore at **Penn State University** studying **Computer Science & Artificial Intelligence Engineering**. I build full-stack applications, intelligent agent workflows, and AI-driven platforms focused on real-world impact.
+I'm Sreenidh, a junior majoring in CS @ Penn State.
 
----
+I mostly work on full-stack development, agentic AI workflows, and data pipelines — building applications with Python, FastAPI, React, and TypeScript 
 
-### 🔭 What I’m Working On
+I also use Figma for UI design and Procreate when I want to sketch ideas.
 
-* **[Remedi](https://github.com/sreenidhbonagiri/Remedi)**: A full-stack clinical advocacy engine and AI copilot helping patients identify bioequivalent generic medications and navigate patient assistance programs.  
-  `Python` • `FastAPI` • `LangGraph` • `OpenFDA API` • `JavaScript`
-
-* **MacroMate**: A personalized nutrition web and mobile application that ingests daily university dining data to recommend tailored meal plans for students. *(2nd Place @ HackPSU)*  
-  `Python` • `Flask` • `React Native` • `PostgreSQL` • `BeautifulSoup`
-
-* **Predictra**: An AI analytics platform built for high-throughput automated metric extraction, trend forecasting, and interactive data visualization.  
-  `PyTorch` • `FastAPI` • `React` • `REST APIs`
+This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copy/paste templates.
 
 ---
 
-### 🛠️ Tech Stack
+### Tools & Tech
 
-* **Languages:** Python, JavaScript, TypeScript, C/C++, SQL, HTML5, CSS3
-* **Frameworks & Libraries:** FastAPI, Flask, React, React Native, LangChain, LangGraph, PyTorch
-* **Databases & Tools:** PostgreSQL, Git, GitHub Actions, Linux/Unix, Docker, RESTful APIs
-
----
-
-### 🌱 Currently Exploring
-
-* Distributed agent architectures & orchestration with LangGraph
-* Scalable microservice designs using FastAPI and asynchronous pipelines
-* Systems programming & low-level memory optimization
+- React, TypeScript, Tailwind  
+- Framer Motion for animations  
+- Figma, Apple Notes, Procreate
 
 ---
 
-### 💡 Interests
+### A Bit About Me
 
-Artificial Intelligence • LLM Orchestration • HealthTech & Social Impact • Competitive Hackathons • Game Systems
-
----
-
-### 📬 Connect With Me
-
-* **LinkedIn:** [linkedin.com/in/sreenidh-bonagiri](https://www.linkedin.com/in/sreenidh-bonagiri) *(update with your link)*
-* **Email:** sreenidhpandu@gmail.com
-* **Portfolio:** [sreenidhbonagiri.github.io](https://sreenidhbonagiri.github.io) *(if applicable)*
+- 🐈 I have two cats  
+- 🍵 Not a coffee or tea person  
+- 🎴 Into anime — *Demon Slayer* is a favorite  
+- 🧱 I like building things that are simple, useful, and easy to understand

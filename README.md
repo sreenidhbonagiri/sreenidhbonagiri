@@ -15,11 +15,4 @@ I also dive into LLM orchestration using LangGraph, cloud infrastructure across 
 - **Cloud & DevOps:** AWS, GCP, Docker, Git, REST APIs, WebSockets
 - **Data & AI:** LLMs, OpenFDA API, BeautifulSoup, NumPy
 
----
 
-### A Bit About Me
-
-- 🐈 I have two cats  
-- 🍵 Not a coffee or tea person  
-- 🎴 Into anime — *Demon Slayer* is a favorite  
-- 🧱 I like building things that are simple, useful, and easy to understand

@@ -10,7 +10,7 @@ I just finished working on [Remedi](https://github.com/sreenidhbonagiri/Remedi),
 
 ### Tools & Tech
 
-- **Languages:** Python, JavaScript, TypeScript, Java, SQL, Swift, HTML/CSS
+- **Languages:** Python, JavaScript, TypeScript, Java, SQL, HTML/CSS
 - **Frameworks & Libs:** FastAPI, React, Node.js, Flask, LangGraph, PyTorch
 - **Cloud & DevOps:** AWS, GCP, Docker, Git, REST APIs, WebSockets
 - **Data & AI:** LLMs, OpenFDA API, BeautifulSoup, NumPy

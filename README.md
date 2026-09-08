@@ -4,8 +4,6 @@ I'm Sreenidh, a junior majoring in CS @ Penn State.
 
 I mostly work on full-stack development, agentic AI workflows, and data pipelines, building applications with Python, FastAPI, React, and TypeScript.
 
-I just finished working on [Remedi](https://github.com/sreenidhbonagiri/Remedi), an AI-driven clinical advocacy tool built with FastAPI and LangGraph that matches patients with low-cost generic medications and assistance programs.
-
 I am currently working on [Pulse](https://github.com/sreenidhbonagiri/pulse), a distributed uptime monitoring platform built with Go, React, PostgreSQL, and AWS. It continuously checks websites for availability and latency, processes monitoring jobs through Amazon SQS and background workers, and displays uptime history and incidents through a live dashboard.
 
 ---
